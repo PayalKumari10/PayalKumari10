@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Payal Kumari</h1>
 <h3 align="center">A passionate FullSatck Developer from India</h3>
-<img https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif>
+<img  align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payalkumari10&label=Profile%20views&color=0e75b6&style=flat" alt="payalkumari10" /> </p>
