@@ -1,4 +1,4 @@
-![logo](https://github.com/PayalKumari10/PayalKumari10/blob/main/Payal%20%20Banner.png)
+![logo](https://github.com/PayalKumari10/PayalKumari10/blob/main/PayalBanner.png)
 <h1 align="center">Hi 👋, I'm Payal Kumari</h1>
 <h3 align="center">A passionate FullSatck Developer from India</h3>
 <img  align="right" alt="Coding" width="90%" src="https://github.com/PayalKumari10/PayalKumari10/blob/main/banner.gif">
