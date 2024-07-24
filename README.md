@@ -1,7 +1,7 @@
 ![logo](https://github.com/PayalKumari10/PayalKumari10/blob/main/Payal%20%20Banner.png)
 <h1 align="center">Hi 👋, I'm Payal Kumari</h1>
 <h3 align="center">A passionate FullSatck Developer from India</h3>
-<img  align="right" alt="Coding" width="50%" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<img  align="right" alt="Coding" width="50%" src="https://github.com/PayalKumari10/PayalKumari10/blob/main/banner.gif">
 
 <p align="right">
   <video width="50%" controls>
