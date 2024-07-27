@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate FullStack Developer and Web Developer.</h3>
+<h3 align="center">A passionate FullStack Developer.</h3>
 <img  align="right" alt="Coding" width="70%" src="https://github.com/PayalKumari10/PayalKumari10/blob/main/banner.gif">
 
 
