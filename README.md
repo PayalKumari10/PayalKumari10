@@ -1,7 +1,15 @@
 ![logo](https://github.com/PayalKumari10/PayalKumari10/blob/main/PayalBanner.png)
-<h1 align="center">Hi 👋, I'm Payal Kumari</h1>
-<h3 align="center">A passionate FullSatck Developer from India</h3>
+
+<h1 align="center">Hi 👋,I'm Payal Kumari<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="75">&nbsp;</h1>
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Converting+coffee+into+code!!!..👋">
+  </a>
+</h1>
+
+<h3 align="center">A passionate FullStack Developer and Web Developer.</h3>
 <img  align="right" alt="Coding" width="70%" src="https://github.com/PayalKumari10/PayalKumari10/blob/main/banner.gif">
+
 
 <p align="right">
   <video width="50%" controls>
@@ -15,13 +23,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=payalkumari10" alt="payalkumari10" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/payalkumar89652" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/payalkumar89652?logo=twitter&style=for-the-badge" alt="https://twitter.com/payalkumar89652" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+
+- 🌱 I’m passionate ***Full Stack Developer*** and ***Open Source Enthusiast***
 
 - 📫 How to reach me **kumaripayal7488@gmail.com**
 
-- ⚡ Fun fact **Code with fun.**
+- ⚡ Fun fact: **Code with fun.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
