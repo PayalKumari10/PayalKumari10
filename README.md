@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **kumaripayal7488@gmail.com**
 
-- ⚡ Fun fact: **Code with fun.**
+- ⚡ Fun fact: **I code with a dash of creativity and a sprinkle of fun!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
