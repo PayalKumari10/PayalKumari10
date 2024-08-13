@@ -47,3 +47,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=payalkumari10&show_icons=true&locale=en" alt="payalkumari10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=payalkumari10&" alt="payalkumari10" /></p>
+
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+ </a>
+</div>
+</details>
