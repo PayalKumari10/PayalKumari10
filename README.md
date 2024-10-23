@@ -46,15 +46,9 @@
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />  
  </a>
 </div>
 </details>
-
-
-
-
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=payalkumari10&show_icons=true&locale=en&layout=compact" alt="payalkumari10" /></p>
