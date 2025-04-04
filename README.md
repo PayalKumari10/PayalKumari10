@@ -69,3 +69,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=payalkumari10&" alt="payalkumari10" /></p>
 
+<p align="center"><a href="https://github.com/sponsors/Hunterdii">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p></a>
